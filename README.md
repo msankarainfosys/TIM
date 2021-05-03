@@ -1,2 +1,0 @@
-# TIM
-NBTY TIM repository
